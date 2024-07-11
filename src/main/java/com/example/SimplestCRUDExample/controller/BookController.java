@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api3")
+@RequestMapping("/api4")
 public class BookController {
 
     @Autowired
